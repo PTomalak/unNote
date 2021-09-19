@@ -1,0 +1,23 @@
+{
+    "default_size": [600,400],
+    "font": ["Fantasque Sans"],
+    "night_mode": ["True"],
+    "fps": [60],
+    "graph_increments": [1],
+    "grid_increments": [1],
+    "font_size": [20],
+    "show_grid": [],
+    "show_graph": [],
+    "show_axis": [],
+    "graph_analysis": [],
+    "graph_intersection": [],
+    "antialiasing": [],
+    "fullscreen": [],
+    "cursor_type": [],
+    "debug": [],
+    "cursor_color": [],
+    "graph_history": [100]
+
+
+
+}
